@@ -3,8 +3,8 @@ Hello I'm Vinni,
 I'm a Full Stack graduate with the following experiences.  
 
 Currently learning:
-Docker (09/22)
-TypeScript (09/22)
+Docker (09/22),
+TypeScript (09/22),
 MongoDB (09/22)
 
 Current Stack: React, Node, Express & MySQL.
@@ -12,9 +12,9 @@ Current Stack: React, Node, Express & MySQL.
 Preferred Stack: MongoDB, Express, React & Node.
 
 Current Favourite Cloud Services: ALL GOOGLE! 
-Firebase: Hosting.
-Automl: Recognition software which can recognize elements in a picture.
-Dialogflow: Chatbot that is able to respond to specific queries.
+ Firebase: Hosting.
+ Automl: Recognition software which can recognize elements in a picture.
+ Dialogflow: Chatbot that is able to respond to specific queries.
 
 Preferred CI/CD tools: Travis CI, GitHub-Actions.
 
