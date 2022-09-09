@@ -2,7 +2,7 @@ Hello I'm Vinni,
 
 I'm a Full Stack graduate with the following experiences.  
 
-Currently learning: <br />
+Currently studying: <br />
 Docker (09/22) <br />
 TypeScript (09/22) <br />
 MongoDB (09/22) <br />
