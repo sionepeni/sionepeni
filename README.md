@@ -11,6 +11,8 @@ Current Stack: React, Node, Express & MySQL.
 
 Preferred Stack: MongoDB, Express, React & Node.
 
+Preferred Styling: SCSS, CSS.
+
 Current Favourite Cloud Services: ALL GOOGLE! <br />
 Firebase: Hosting. <br />
 Automl: Recognition software which can recognize elements in a picture. <br />
