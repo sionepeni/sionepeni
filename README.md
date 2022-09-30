@@ -4,6 +4,8 @@ I'm a Full Stack graduate with the following experiences.
 
 Currently learning: <br />
 TypeScript (09/22) <br />
+Tailwind (09/22) <br />
+tRPC (09/22) <br />
 
 Current Stack: MongoDB, Express, React, Node.
 
