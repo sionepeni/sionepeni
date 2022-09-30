@@ -2,14 +2,12 @@ Hello I'm Vinni,
 
 I'm a Full Stack graduate with the following experiences.  
 
-Currently studying: <br />
-Docker (09/22) <br />
+Currently learning: <br />
 TypeScript (09/22) <br />
-MongoDB (09/22) <br />
 
-Current Stack: React, Node, Express & MySQL.
+Current Stack: MongoDB, Express, React, Node.
 
-Preferred Stack: MongoDB, Express, React & Node.
+Preferred Stack: TypeScript, Tailwind, tRPC.
 
 Preferred Styling: SCSS, CSS.
 
@@ -19,6 +17,10 @@ Automl: Recognition software which can recognize elements in a picture. <br />
 Dialogflow: Chatbot that is able to respond to specific queries. <br />
 
 Preferred CI/CD tools: Travis CI, GitHub-Actions.
+
+Databases: MySQL, MongoDB.
+
+Docker
 
 
 
